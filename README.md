@@ -15,13 +15,12 @@ To run through the scripts you first need to run script 01 to load and formate t
 
 Script 03 shows the diagnostics of the models, using both ShinyStan and by doing diagnostic plots..
 
-Script 04 to 11 generates the figures S2 to S13, each script loads the necessary model run to generate the figures. The packages need to loaded from script 01.
+Script 04 to 11 generates the figures S2 to S13, each script loads the necessary model run to generate the figures. The packages need to be loaded from script 01.
 
 ## Output
 All the output is in the repository as png or pdf.
 
 ## Acknowledgments
-I would like to express my gratitude to my supervisors Torkild Tveraa, Sandra Hamel, John-André Henden, Audun Stien and Nigel Gilles Yoccoz or their guidance and support throughout this project.
 
 ## Contact
 * Mikaela Simmonds
